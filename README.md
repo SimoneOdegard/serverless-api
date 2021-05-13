@@ -19,7 +19,7 @@ dev
 
 ## Image
 
-![images.json file](photo.jpg)
+![images.json file](./assets/photo.jpg)
 
 ## Pull Requests
 
